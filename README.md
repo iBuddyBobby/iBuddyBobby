@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitesh S
-- 👀 I’m interested in Building something New, Creative or Diff
+- 👀 I’m interested in Building Something New
 - 🌱 I’m currently learning Python.
 
 <!---
